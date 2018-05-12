@@ -1,4 +1,8 @@
 _repo: Monja-y-casada-virgen-y-martir_49560
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49560-h/images/cover.jpg
 creator:
   author:
     agent_name: Palacio, Vicente Riva
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45403
     wikipedia: https://es.wikipedia.org/wiki/Vicente_Riva_Palacio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49560#Monja-y-casada-virgen-y-martir
 gutenberg_issued: '2015-07-31'
 gutenberg_type: Text
 identifiers:
